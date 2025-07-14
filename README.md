@@ -66,7 +66,7 @@ Below is the hardware setup for long-range telemetry using the E32 LoRa module a
  EV Node: ESP32 collects sensor data (voltage, location)
  LoRa Module (E32): Transmits data wirelessly
  Raspberry Pi: Receives and displays the data
-![Circuit Diagram] (circuit_diagram.png)
+![Circuit Diagram] (ev_circuit_diagram.png)
 
 
 ## 📝 License
