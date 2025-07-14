@@ -71,7 +71,7 @@ Below is the hardware setup for long-range telemetry using the E32 LoRa module a
 
 ## 📝 License
 
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [MIT License] (LICENSE)
 
 ---
 
